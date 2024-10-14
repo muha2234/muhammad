@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+h1 {
+    color: #4682b4;
+}
+.list-item {
+    color: red;
+    font-size: 18px;
+    list-style: none;
+    padding: 10px;
+}
+ul {
+    padding: 0;
+    margin: 20px auto;
+    max-width: 400px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+img {
+    width: 300px;
+    height: 350px;
+    border-radius: 20px;
+    margin-top: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
